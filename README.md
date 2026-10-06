@@ -40,6 +40,10 @@ Most of my professional work is in private client repositories, so the code is n
 - **Multi-tenant restaurant SaaS.** Online ordering storefront, Stripe payments, loyalty, and a coupons engine.
 - **Smart transport platform.** Trip matching in opposite directions to reduce empty runs.
 
+## Featured project
+
+**[Shipment Tracking API](https://github.com/AbdelrahmamAhmed12/shipment-tracking-api)** — a last-mile shipping API in Laravel 13 with zone and weight pricing, a status state machine, signed webhooks with retries, and a full test suite.
+
 ## Contact
 
 - Email: [abdohassanin325@gmail.com](mailto:abdohassanin325@gmail.com)
