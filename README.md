@@ -40,9 +40,10 @@ Most of my professional work is in private client repositories, so the code is n
 - **Multi-tenant restaurant SaaS.** Online ordering storefront, Stripe payments, loyalty, and a coupons engine.
 - **Smart transport platform.** Trip matching in opposite directions to reduce empty runs.
 
-## Featured project
+## Featured projects
 
-**[Shipment Tracking API](https://github.com/AbdelrahmamAhmed12/shipment-tracking-api)** — a last-mile shipping API in Laravel 13 with zone and weight pricing, a status state machine, signed webhooks with retries, and a full test suite.
+- **[Multi-tenant Ledger API](https://github.com/AbdelrahmamAhmed12/multi-tenant-ledger-api)**: double-entry accounting SaaS on Laravel 13 with tenant isolation, gapless posting, reversals, idempotent writes and financial reports. 50 tests.
+- **[Shipment Tracking API](https://github.com/AbdelrahmamAhmed12/shipment-tracking-api)**: last-mile shipping API with zone pricing, a status state machine and signed webhooks with retries. 41 tests.
 
 ## Contact
 
