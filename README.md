@@ -6,7 +6,7 @@ I like turning complex business rules (accounting, installments, commissions, sh
 
 ## What I'm working on
 
-- **Revenue OS** at Digix Egypt: a multi-tenant AI agent platform on Laravel 13, Vue 3 and PostgreSQL with pgvector.
+- **Odex (useodex.com)** at Digix Egypt: a multi-tenant AI agent platform on Laravel 13, Vue 3 and PostgreSQL with pgvector.
 - A real estate CRM for a Dubai property developer: sales pipeline, installments, commissions, broker management and KYC.
 
 ## Tech stack
